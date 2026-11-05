@@ -1,0 +1,7 @@
+{
+  "name": "EFA SCHOOL - Gestion Digitalisée des Écoles Africaines",
+  "description": "Plateforme moderne de gestion scolaire africaine par EFA TECHNOLOGIE (Fondateur YESSOUFOU Malik) : scolarité, classes, élèves, communication WhatsApp, finances et dépenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
